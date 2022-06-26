@@ -1,92 +1,30 @@
 
-<div align="center">
-  <a href="https://opensource.org/licenses/MIT"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-brightgreen"></a>
-</div>
+My name is Augusto, but most of my friends call me Guga. I'm a general Software Engineer with a strong background working with Data Science and end to end ML applications. I've been working with data science for nearly 4 years now. My goal is to apply AI and Machine learning in real-world problems. Most of my background was working with data science/analysis, dataviz, Machine Learning models (Classical ML and Deep Learning), Natural Language Processing (NLP), Python frameworks(Flask/Django), Cloud(GCP), SQL(Postgresql) and No SQL(Redis and Cassandra) databases .
 
-<p align="center">
-  <a href="#interrobang-what-is-rentx">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-how-to-use-developing">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-documentation">Docs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#confetti_ball-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#key-license">License</a>
+In these 4 years in the field, I've worked with Remote Sensing and Agriculture, Natural Language Processing for Word Sense Disambiguation and Fault Detection in Industrial Systems
+
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="480" height="320" /> -->
+
+
+**Current languages and tools:**
+<p>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" width="30px" align="left"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" width="30px" align="left"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/get-icon/geticon/blob/master/icons/jest.svg"><img alt="JEST" src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" style="max-width:100%;" width="30px" align="left"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg"><img alt="Docker" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="max-width:100%;" width="30px" align="left"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"><img alt="GIT" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" style="max-width:100%;" width="30px" align="left"></a>
 </p>
 
---- 
+<br/>
+<br/>
+<br/>
+<br/>
 
-## :interrobang: What is MobX?
-
-MobX is a high-quality and well-rated immobile rental service. <br>
-Analyze immobile specifications, choose the one that best suits you. <br>
-
-This API was developed in the Flask-Restful/Python. 🔥🚀 
-
-
-## :rocket: Technologies:
-
-This back-end project was developed using the following technologies:
-
-- [Python][python]
-- [Flask][flask]
-- [Flask-Restful][flask-restful]
-
-
-## :construction_worker: How to use: (developing)
-
-To clone and run this API you will need the following software installed on your computer:
-
-- [Git][git]
-- [Python][python]
-
-
-### :electric_plug: Install dependencies and run the application:
-```bash
-# Clone this repository:
-$ git clone https://github.com/i-ramoss/mobx.git
-
-# Enter the repository:
-$ cd app
-
-# Install the dependencies:
-$ pip install -r requirements.txt
-
-# Run the app
-python app.py
-```
-
-
-
-## :confetti_ball: How to contribute:
-
--  Make a fork;
--  Create a branch with your functionality: `git checkout -b <your_feature_name>`;
--  Submit the changes made: `git commit -am 'type(scope): <description>'`;
--  Push your branch: `git push origin <your_branch_name>`.
-
-After your request is accepted and added to the project, you can delete your branch.
-
-
-## :key: License:
-
-This project in under MIT license, for more details check in [LICENSE][license]. <br>
-Feel free to bring new features or fix problems, it will be a pleasure! 💜
-
----
-
-<div align='center'>
-  Made with 💚  by <a href='https://www.linkedin.com/in/ian-ramos/'> <strong>Ian Ramos</strong> </a> and <a href='https://www.linkedin.com/in/augustosbarreto/'>  <strong>Augusto Barreto</strong> </a>🔥
-  Get in touch!
+ <div  align="center">
+ <a href="https://github.com/i-ramoss"></a>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=i-ramoss&hide_border=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/> &nbsp;
+<!--      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=i-ramoss&hide_border=true&theme=blueberry&show_icons=true"/> -->
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ramoss&layout=compact&count_private=true&hide_border=true&theme=blueberry&show_icons=true">
 </div>
-
-
-
-[git]: https://git-scm.com
-[python]: https://www.python.org/
-[flask]: https://flask.palletsprojects.com/en/2.1.x/
-[flask-restful]: https://flask-restful.readthedocs.io/en/latest/
-
-
-[license]: https://github.com/i-ramoss/Foodfy/blob/master/LICENSE
-[linkedin]: https://www.linkedin.com/in/ian-ramos/
-
-
