@@ -14,12 +14,10 @@
 
 --- 
 
-## :interrobang: What is MobX?
+## :interrobang: What is the Purpose of this Notebook?
 
-MobX is a high-quality and well-rated immobile rental service. <br>
-Analyze immobile specifications, choose the one that best suits you. <br>
 
-This API was developed in the Flask-Restful/Python. 🔥🚀 
+This notebook was designed with the aim of finding the best tool to support the forecast of the soybean crop. 🔥🚀 
 
 
 ## :rocket: Technologies:
@@ -27,33 +25,8 @@ This API was developed in the Flask-Restful/Python. 🔥🚀
 This back-end project was developed using the following technologies:
 
 - [Python][python]
-- [Flask][flask]
-- [Flask-Restful][flask-restful]
-
-
-## :construction_worker: How to use: (developing)
-
-To clone and run this API you will need the following software installed on your computer:
-
-- [Git][git]
-- [Python][python]
-
-
-### :electric_plug: Install dependencies and run the application:
-```bash
-# Clone this repository:
-$ git clone https://github.com/i-ramoss/mobx.git
-
-# Enter the repository:
-$ cd app
-
-# Install the dependencies:
-$ pip install -r requirements.txt
-
-# Run the app
-python app.py
-```
-
+- [Scikit-Learn][sklearn]
+- [Pandas][pandas]
 
 
 ## :confetti_ball: How to contribute:
@@ -74,7 +47,7 @@ Feel free to bring new features or fix problems, it will be a pleasure! 💜
 ---
 
 <div align='center'>
-  Made with 💚  by <a href='https://www.linkedin.com/in/ian-ramos/'> <strong>Ian Ramos</strong> </a> and <a href='https://www.linkedin.com/in/augustosbarreto/'>  <strong>Augusto Barreto</strong> </a>🔥
+  Made with 💚  by <a href='https://www.linkedin.com/in/augustosbarreto/'>  <strong>Augusto Barreto</strong> </a>🔥
   Get in touch!
 </div>
 
@@ -82,8 +55,8 @@ Feel free to bring new features or fix problems, it will be a pleasure! 💜
 
 [git]: https://git-scm.com
 [python]: https://www.python.org/
-[flask]: https://flask.palletsprojects.com/en/2.1.x/
-[flask-restful]: https://flask-restful.readthedocs.io/en/latest/
+[sklearn]: https://scikit-learn.org/stable/
+[pandas]: https://pandas.pydata.org/
 
 
 [license]: https://github.com/i-ramoss/Foodfy/blob/master/LICENSE
