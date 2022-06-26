@@ -60,6 +60,5 @@ Feel free to bring new features or fix problems, it will be a pleasure! 💜
 
 
 [license]: https://github.com/i-ramoss/Foodfy/blob/master/LICENSE
-[linkedin]: https://www.linkedin.com/in/ian-ramos/
 
 
