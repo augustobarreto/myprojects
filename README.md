@@ -1,3 +1,5 @@
+<!-- <img align="right" alt="GIF" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" width="480" height="320" /> -->
+
 
 My name is Augusto, but most of my friends call me Guga. I'm a general Software Engineer with a strong background working with Data Science and end to end ML applications. I've been working with data science for nearly 4 years now. My goal is to apply AI and Machine learning in real-world problems. Most of my background was working with data science/analysis, dataviz, Machine Learning models (Classical ML and Deep Learning), Natural Language Processing (NLP), Python frameworks(Flask/Django), Cloud(GCP), SQL(Postgresql) and No SQL(Redis and Cassandra) databases .
 
