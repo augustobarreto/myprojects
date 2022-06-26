@@ -4,6 +4,7 @@ My name is Augusto, but most of my friends call me Guga. I'm a general Software 
 
 In these 4 years in the field, I've worked with Remote Sensing and Agriculture, Natural Language Processing for Word Sense Disambiguation and Fault Detection in Industrial Systems
 
+This is a repo with some personal projects I've doing during my learning time.
 
 **Current languages and tools:**
 
