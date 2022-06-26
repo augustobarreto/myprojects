@@ -1,4 +1,4 @@
-
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="480" height="320" /> -->
 
 My name is Augusto, but most of my friends call me Guga. I'm a general Software Engineer with a strong background working with Data Science and end to end ML applications. I've been working with data science for nearly 4 years now. My goal is to apply AI and Machine learning in real-world problems. Most of my background was working with data science/analysis, dataviz, Machine Learning models (Classical ML and Deep Learning), Natural Language Processing (NLP), Python frameworks(Flask/Django), Cloud(GCP), SQL(Postgresql) and No SQL(Redis and Cassandra) databases .
 
