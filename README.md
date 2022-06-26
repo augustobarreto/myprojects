@@ -1,9 +1,4 @@
-<img srcset="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif 300w,
-                            https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif 600w,
-                            https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif 1000w,
-                            https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif 2000w" sizes="(max-width: 800px) 400px,
-                            (max-width: 1170px) 700px,
-                            1400px" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" alt="How to start pair programming">
+
 
 My name is Augusto, but most of my friends call me Guga. I'm a general Software Engineer with a strong background working with Data Science and end to end ML applications. I've been working with data science for nearly 4 years now. My goal is to apply AI and Machine learning in real-world problems. Most of my background was working with data science/analysis, dataviz, Machine Learning models (Classical ML and Deep Learning), Natural Language Processing (NLP), Python frameworks(Flask/Django), Cloud(GCP), SQL(Postgresql) and No SQL(Redis and Cassandra) databases .
 
